@@ -4,15 +4,15 @@ import Github from "../img/github.png";
 
 const Login = () => {
   const google = () => {
-    window.open("https://backend-bice-three.vercel.app/auth/google", "_self");
+    window.open("https://backend-delta-orpin.vercel.app/auth/google", "_self");
   };
 
   const github = () => {
-    window.open("https://backend-bice-three.vercel.app/auth/github", "_self");
+    window.open("https://backend-delta-orpin.vercel.app/auth/github", "_self");
   };
 
   const facebook = () => {
-    window.open("https://backend-bice-three.vercel.app/auth/facebook", "_self");
+    window.open("https://backend-delta-orpin.vercel.app/auth/facebook", "_self");
   };
 
   return (
