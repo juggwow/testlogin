@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(() => {
     const getUser = () => {
-      fetch("https://backend-delta-orpin.vercel.app/auth/login/success", {
+      fetch("https://backend-sigma-six.vercel.app/auth/login/success", {
         method: "GET",
         credentials: "include",
         headers: {
